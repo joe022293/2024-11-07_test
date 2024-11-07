@@ -1,5 +1,5 @@
 import streamlit as st
-print('5')
+st.write('5')
 # from reportlab.pdfgen import canvas
 # print('1')
 # from PIL import Image
