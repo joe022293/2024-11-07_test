@@ -1,14 +1,14 @@
 import streamlit as st
+st.write('1')
+from reportlab.pdfgen import canvas
+st.write('2')
+from PIL import Image
+st.write('3')
+import qrcode
+st.write('4')
+from PyPDF2 import PdfFileMerger
 st.write('5')
-# from reportlab.pdfgen import canvas
-# print('1')
-# from PIL import Image
-# print('2')
-# import qrcode
-# print('3')
-# from PyPDF2 import PdfFileMerger
-# print('4')
-# import base64
-# print('6')
-# import os
-# print('succes')
+import base64
+st.write('6')
+import os
+print('succes')
